@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128100329260",
+    "project_id": "deepblue-69f1d",
+    "storage_bucket": "deepblue-69f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128100329260:android:f8e5c021eb4004a85e6e89",
+        "android_client_info": {
+          "package_name": "com.example.geofencing_deepblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128100329260-m94sjgjvh75j8ndnpgrn0d1moo6rmkik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspviKRs7mxfEN5TmJ_3emGcmhk5RskG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128100329260-m94sjgjvh75j8ndnpgrn0d1moo6rmkik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
